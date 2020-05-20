@@ -10,7 +10,7 @@ let id = 0;
 			if (i % 23 === 0 && i !== 0) {
 				inpVal += x[i] + "<br>"
 			}
-				inp += x[i];
+				inpVal += x[i];
 		}
 	}
 	if (inpVal === "") {
